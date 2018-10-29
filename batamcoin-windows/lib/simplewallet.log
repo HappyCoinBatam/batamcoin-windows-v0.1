@@ -1,0 +1,43 @@
+2018-Oct-28 16:42:26.460759 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Oct-28 16:44:41.131317 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:43641).
+2018-Oct-28 16:45:11.158455 INFO    [simplewallet] Wallet connected to daemon.
+2018-Oct-28 16:45:37.382567 INFO    [simplewallet] Generated new wallet: Bq3oSYWjV1aMyoHHT4KZZfLMQ2Lf58EFL2xg7seb8hUiUjuybGHuM9sH84qM52N8LWW2qWVqFpJURXmNYETEkQbGSuzBkhG
+2018-Oct-28 16:45:37.382567 INFO    [simplewallet] view key: 062f82c3ad5ad8ade41edc5953b288e4b6272dfe332073eb28bffac99dd27b02
+2018-Oct-28 16:45:37.383548 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Oct-28 16:45:44.081149 INFO    [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  export_keys          Show the secret keys of the openned wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Oct-28 16:45:45.943722 INFO    [simplewallet] Wallet closed
+2018-Oct-28 16:45:52.785580 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Oct-28 16:46:09.522226 INFO    [simplewallet] Generated new wallet: BqUjgCKobtP1CjbfjPouAKZw8rR8GVyUJcrsRNicTgWbTp8W9T1ftSQKfy1zDhyDH5Bj2SmPMhFt7K5ut5KQQJGwBRoijeJ
+2018-Oct-28 16:46:09.522226 INFO    [simplewallet] view key: d5f77d84098470ac39c47a3d8e6683b0bbaee3c9ea82383b68dd3f5e3c312700
+2018-Oct-28 16:46:09.530077 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Oct-28 16:52:20.006215 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Oct-28 16:52:44.568614 INFO    [simplewallet] Height 113, transaction 2c2cddcd0e836c397991910adc1bc308e5b32029ac16cf9ac59b663ffd7b280c, received 160.1488
+2018-Oct-28 16:52:49.569066 INFO    [simplewallet] Height 114, transaction cc547c155b4698ca8a0b9743a0545c2b1b2db667d93719b1aef00a4e0643f520, received 160.1482
+2018-Oct-28 16:56:00.601098 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:43641).

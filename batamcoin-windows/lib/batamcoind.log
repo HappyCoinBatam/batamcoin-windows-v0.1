@@ -1,0 +1,63 @@
+2018-Oct-28 16:45:05.139647 INFO    [daemon] forknote v2.1.2.1251 ()
+2018-Oct-28 16:45:05.141609 INFO    [daemon] Module folder: lib\batamcoind.exe
+2018-Oct-28 16:45:05.143572 INFO    [RocksDBWrapper] Opening DB in C:\Users\Chewy\AppData\Roaming/Batamcoin/DB
+2018-Oct-28 16:45:05.151423 INFO    [RocksDBWrapper] DB not found in C:\Users\Chewy\AppData\Roaming/Batamcoin/DB. Creating new DB...
+2018-Oct-28 16:45:05.178900 INFO    [daemon] Initializing core...
+2018-Oct-28 16:45:05.182825 INFO    [daemon] Core initialized OK
+2018-Oct-28 16:45:05.183806 INFO    [daemon] Initializing p2p server...
+2018-Oct-28 16:45:05.185769 INFO    [node_server] Generated new peer ID: 12091844229297916676
+2018-Oct-28 16:45:05.187732 INFO    [node_server] Binding on 0.0.0.0:43640
+2018-Oct-28 16:45:05.190676 INFO    [node_server] Net service binded on 0.0.0.0:43640
+2018-Oct-28 16:45:05.192638 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Oct-28 16:45:06.228927 ERROR   [node_server] UPNP_AddPortMapping failed.
+2018-Oct-28 16:45:06.230889 INFO    [daemon] P2p server initialized OK
+2018-Oct-28 16:45:06.232852 INFO    [daemon] Starting core rpc server on address 127.0.0.1:43641
+2018-Oct-28 16:45:06.235797 INFO    [daemon] Core rpc server started ok
+2018-Oct-28 16:45:06.237759 INFO    [daemon] Starting p2p net loop...
+2018-Oct-28 16:45:06.239722 INFO    [node_server] Starting node_server
+2018-Oct-28 16:45:27.093351 INFO    [protocol] [178.128.19.175:43640 OUT] Sync data returned unknown top block: 1 -> 109 [108 blocks (0 days) behind] 
+2018-Oct-28 16:45:27.093351 INFO    [protocol] SYNCHRONIZATION started
+2018-Oct-28 16:45:29.696829 INFO    [Core] Block a31a6b1a66e7f88c5e68cc2f21fb7fad5856e035553b7d8ba80c88326baca95b added to main chain. Index: 100
+2018-Oct-28 16:45:30.058942 INFO    [protocol] [178.128.19.175:43640 OUT] SYNCHRONIZED OK
+2018-Oct-28 16:45:30.060904 INFO    [protocol] 
+2018-Oct-28 16:45:30.060904 INFO    [protocol] **********************************************************************
+2018-Oct-28 16:45:30.060904 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2018-Oct-28 16:45:30.060904 INFO    [protocol] 
+2018-Oct-28 16:45:30.060904 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2018-Oct-28 16:45:30.060904 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2018-Oct-28 16:45:30.060904 INFO    [protocol] 
+2018-Oct-28 16:45:30.060904 INFO    [protocol] Use "help" command to see the list of available commands.
+2018-Oct-28 16:45:30.060904 INFO    [protocol] **********************************************************************
+2018-Oct-28 16:55:57.346013 INFO    [node_server] Stop signal sent
+2018-Oct-28 16:55:57.346013 INFO    [node_server] Stopping NodeServer and it's2 connections...
+2018-Oct-28 16:55:57.349939 INFO    [node_server] NodeServer loop stopped
+2018-Oct-28 16:55:57.351901 INFO    [daemon] p2p net loop stopped
+2018-Oct-28 16:55:57.353864 INFO    [daemon] Stopping core rpc server...
+2018-Oct-28 16:55:57.356808 INFO    [daemon] Deinitializing p2p...
+2018-Oct-28 16:55:57.374472 INFO    [RocksDBWrapper] Closing DB.
+2018-Oct-28 16:55:57.403912 INFO    [daemon] Node stopped.
+2018-Oct-28 16:57:52.901556 INFO    [daemon] forknote v2.1.2.1251 ()
+2018-Oct-28 16:57:52.903519 INFO    [daemon] Module folder: lib\batamcoind.exe
+2018-Oct-28 16:57:52.905482 INFO    [RocksDBWrapper] Opening DB in C:\Users\Chewy\AppData\Roaming/Batamcoin/DB
+2018-Oct-28 16:57:52.922164 INFO    [RocksDBWrapper] DB opened in C:\Users\Chewy\AppData\Roaming/Batamcoin/DB
+2018-Oct-28 16:57:52.925109 INFO    [daemon] Initializing core...
+2018-Oct-28 16:57:52.927071 INFO    [daemon] Core initialized OK
+2018-Oct-28 16:57:52.929034 INFO    [daemon] Initializing p2p server...
+2018-Oct-28 16:57:52.930996 INFO    [node_server] Binding on 0.0.0.0:43640
+2018-Oct-28 16:57:52.932959 INFO    [node_server] Net service binded on 0.0.0.0:43640
+2018-Oct-28 16:57:52.934922 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Oct-28 16:57:53.969247 ERROR   [node_server] UPNP_AddPortMapping failed.
+2018-Oct-28 16:57:53.970229 INFO    [daemon] P2p server initialized OK
+2018-Oct-28 16:57:53.972192 INFO    [daemon] Starting core rpc server on address 127.0.0.1:43641
+2018-Oct-28 16:57:53.975135 INFO    [daemon] Core rpc server started ok
+2018-Oct-28 16:57:53.976116 INFO    [daemon] Starting p2p net loop...
+2018-Oct-28 16:57:53.978079 INFO    [node_server] Starting node_server
+2018-Oct-28 16:58:04.393955 INFO    [protocol] 
+2018-Oct-28 16:58:04.393955 INFO    [protocol] **********************************************************************
+2018-Oct-28 16:58:04.393955 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2018-Oct-28 16:58:04.393955 INFO    [protocol] 
+2018-Oct-28 16:58:04.393955 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2018-Oct-28 16:58:04.393955 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2018-Oct-28 16:58:04.393955 INFO    [protocol] 
+2018-Oct-28 16:58:04.393955 INFO    [protocol] Use "help" command to see the list of available commands.
+2018-Oct-28 16:58:04.393955 INFO    [protocol] **********************************************************************
