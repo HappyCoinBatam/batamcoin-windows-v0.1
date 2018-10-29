@@ -1,9 +1,9 @@
 # batamcoin-windows-v0.1
 Test Mining Batamcoin (cryptonote) on Windows
-/Machine/Settings/Motherboard/Base Memory/4096MB
-/Machine/Settings/Processor(s)/2
 
 1 } Create a Windows virtual Machine:
+/Machine/Settings/Motherboard/Base Memory/4096MB
+/Machine/Settings/Processor(s)/2
 - with 2CPUs (virtual processor)
 - 4GB of RAM
 - 50GB of Dynamic Storage
@@ -22,12 +22,11 @@ check Make Permanent
 7) Open command Promt and change directory to your local copy of batamcoin-windows
 -  eg. cd Downloads\batamcoin-windows
 -  ensure that you have the following:
-    configs - batamcoin.conf
-            - notes
-    lib     - batamcoind
-            - miner
-            - simplewallet
-            - walletd
+    configs / batamcoin.conf
+    lib     / batamcoind
+            / miner
+            / simplewallet
+            / walletd
    And 3 batch files:
       - RunBatamcoind.exe
       - RunMiner.exe
